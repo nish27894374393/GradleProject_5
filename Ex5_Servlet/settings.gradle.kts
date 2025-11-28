@@ -1,1 +1,0 @@
-rootProject.name = "Ex5_Servlet"
